@@ -1,0 +1,7 @@
+[package]
+name = "patricia-ip-prefix"
+version = "0.1.0"
+edition = "2024"
+description = "IPv4 longest-prefix matching with linear, binary, and compressed Patricia tables"
+
+[dependencies]
